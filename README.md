@@ -1,1 +1,6 @@
-# binary-switch
+# Binary Switch
+
+思いついたものをひたすらアウトプットするシリーズ。
+
+## LICENSE
+[MIT](LICENSE)
