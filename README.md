@@ -1,6 +1,9 @@
 # Binary Switch
 
-思いついたものをひたすらアウトプットするシリーズ。
+思いついたものをひたすらアウトプットするシリーズ。  
+  
+  
+![screenshot](ss/ss.png)
 
 ## LICENSE
 [MIT](LICENSE)
